@@ -9,7 +9,7 @@ class CCTracker extends StatelessWidget{
   Widget build(BuildContext context){
     return MaterialApp(
       theme: ThemeData(
-        primarySwatch: Colors.pink
+        primarySwatch: Colors.red
       ),
       home: CCList(),
     );
